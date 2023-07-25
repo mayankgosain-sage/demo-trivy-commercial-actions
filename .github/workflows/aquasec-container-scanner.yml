@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ "main" ]
 
-env:
+# env:
  # Registry name as configured in Aqua integrations
  # IMAGE_REGISTRY: 'dh-andreazorzetto'
 
